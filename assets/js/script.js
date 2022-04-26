@@ -197,7 +197,7 @@ function nextStage() {
 
 
 function generateUrl() {
-    document.getElementById("results-link").setAttribute(`action`,`https://kera-cudmore.github.io/earth-day-hackathon-2022/${theme}#${country}-${donationType}`)
+    document.getElementById("results-link").setAttribute(`action`,`https://janelleg51.github.io/earth-day-hackathon-2022/${theme}#${country}-${donationType}`)
     document.getElementById("results-link").removeAttribute("class");
     
 }
