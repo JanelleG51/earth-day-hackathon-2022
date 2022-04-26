@@ -50,7 +50,7 @@ let country = "test";
 let scorecard = {a:0, b:0, c:0, d:0, e:0}
 
 // PLACEHOLDER THEME
-let theme = "climatechange" 
+let theme = [] 
 
 // stageTracker keeps count of the "stage" of the quiz. 0 is location question, 1 is the first quiz question, 2 is second quiz question etc.
 // is augmented by "+1" after each answer is submitted, moving the quiz to the next stage.
