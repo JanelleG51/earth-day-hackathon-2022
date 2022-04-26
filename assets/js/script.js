@@ -50,7 +50,7 @@ let country = "test";
 let scorecard = {a:0, b:0, c:0, d:0, e:0}
 
 // PLACEHOLDER THEME
-let theme = [] 
+let theme = "climatechange" 
 
 // stageTracker keeps count of the "stage" of the quiz. 0 is location question, 1 is the first quiz question, 2 is second quiz question etc.
 // is augmented by "+1" after each answer is submitted, moving the quiz to the next stage.
@@ -197,7 +197,7 @@ function nextStage() {
 
 
 function generateUrl() {
-    document.getElementById("results-link").setAttribute(`action`,`https://kera-cudmore.github.io/earth-day-hackathon-2022/${theme}#${country}-${donationType}`)
+    document.getElementById("results-link").setAttribute(`action`,`https://janelleg51.github.io/earth-day-hackathon-2022/${theme}#${country}-${donationType}`)
     document.getElementById("results-link").removeAttribute("class");
     
 }
