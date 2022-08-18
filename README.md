@@ -8,7 +8,7 @@ Don't have any spare funds but still want to contribute? Select to donate your t
 
 ![Charity Earth Responsive Image](assets/images/charity-earth-responsive.png)
 
-Visit the deployed site: [Charity Earth](https://kera-cudmore.github.io/earth-day-hackathon-2022/)
+Visit the deployed site: [Charity Earth](https://janelleg51.github.io/earth-day-hackathon-2022/)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/kera-cudmore/earth-day-hackathon-2022?color=red&style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/kera-cudmore/earth-day-hackathon-2022?color=orange&style=for-the-badge)
